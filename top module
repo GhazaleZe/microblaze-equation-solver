@@ -52,28 +52,3 @@ microblaze mcs_0 (
   .GPI4_Interrupt(GPI4_Interrupt) // output GPI4_Interrupt
 );
 endmodule
-
-
-// test bench verilog code on ISE
-`timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   10:24:20 06/08/2019
-// Design Name:   microblaze_top
-// Module Name:   D:/verilog/microblaze_tut/tb.v
-// Project Name:  microblaze_tut
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: microblaze_top
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
