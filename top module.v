@@ -52,3 +52,7 @@ microblaze mcs_0 (
   .GPI4_Interrupt(GPI4_Interrupt) // output GPI4_Interrupt
 );
 endmodule
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
